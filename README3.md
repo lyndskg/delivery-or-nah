@@ -48,7 +48,6 @@ The app allows users to export their cart from these delivery services before or
 
 It then fetches the prices for the same items directly from the respective establishments and calculates the total price, giving users the option to make an informed decision on whether to proceed with the delivery service or purchase directly from the establishment.
 
-&nbsp;
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -59,8 +58,6 @@ It then fetches the prices for the same items directly from the respective estab
 >
 > ##### <ins>__Completed On__</ins>: Idk
 
-&nbsp;
-
 ### To-do List:
 - [x] Add Changelog
 - [x] Add back to top links
@@ -70,7 +67,7 @@ It then fetches the prices for the same items directly from the respective estab
     - [ ] Chinese
     - [ ] Spanish
 
-
+&nbsp;
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
