@@ -56,6 +56,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
+[//]: # (* [![Angular][Angular.io]][Angular-url])
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
 * [![Laravel][Laravel.com]][Laravel-url]
@@ -63,18 +64,24 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![JQuery][JQuery.com]][JQuery-url]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Best Coding Languages
-Swift is the primary coding language for iOS app development, making it ideal for building delivery-or-nah.
+<!-- ROADMAP -->
+## Roadmap
+
+- [x] Add Changelog
+- [x] Add back to top links
+- [ ] Add Additional Templates w/ Examples
+- [ ] Add "components" document to easily copy & paste sections of the readme
+- [ ] Multi-language Support
+    - [ ] Chinese
+    - [ ] Spanish
+
+See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Key Features
-1. <ins>__Cart Export</ins>:</ins>__ Enable users to export their cart data from popular delivery services to the app.
-2. <ins>__Price Comparison</ins>:</ins>__ Fetch prices for the same items directly from the establishments to calculate the total price.
-3. <ins>__Delivery Service Fees</ins>:__ Account for taxes, delivery fees, and tips in the total price for delivery services.
-4. <ins>__Establishment Direct Prices</ins>:__ Retrieve prices for items from the respective establishments.
-5. <ins>__User-Friendly Interface</ins>:__ Design an intuitive and user-friendly interface for easy comparison and decision-making.
-6. <ins>__Real-Time Data</ins>:__ Ensure that the app fetches real-time prices from both delivery services and establishments.
+
+## Best Coding Languages
+Swift is the primary coding language for iOS app development, making it ideal for building delivery-or-nah.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,6 +98,16 @@ Swift is the primary coding language for iOS app development, making it ideal fo
 
 ## Basic I/O Details
 delivery-or-nah will be a mobile app available on iOS devices. Users can export their cart data from popular delivery services using the app's built-in functionality. The app will display the item names, prices, taxes, delivery fees, and tips for the delivery service. It will then fetch and display the prices from the respective establishments for comparison. Users can make a decision based on the presented information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Key Features
+1. <ins>__Cart Export</ins>:</ins>__ Enable users to export their cart data from popular delivery services to the app.
+2. <ins>__Price Comparison</ins>:</ins>__ Fetch prices for the same items directly from the establishments to calculate the total price.
+3. <ins>__Delivery Service Fees</ins>:__ Account for taxes, delivery fees, and tips in the total price for delivery services.
+4. <ins>__Establishment Direct Prices</ins>:__ Retrieve prices for items from the respective establishments.
+5. <ins>__User-Friendly Interface</ins>:__ Design an intuitive and user-friendly interface for easy comparison and decision-making.
+6. <ins>__Real-Time Data</ins>:__ Ensure that the app fetches real-time prices from both delivery services and establishments.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,23 +160,6 @@ delivery-or-nah aims to empower users to make informed decisions about their pur
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
