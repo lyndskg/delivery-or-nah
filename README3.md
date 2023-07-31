@@ -1,4 +1,4 @@
-# delivery-or-nah
+# delivery-or-nah [WIP]
 ##### <ins>__*a mobile app for comparing delivery service prices*__</ins>
 
 [//]: # (This may be the most platform independent comment)
