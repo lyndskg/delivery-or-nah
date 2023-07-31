@@ -48,8 +48,8 @@ The app allows users to export their cart from these delivery services before or
 
 It then fetches the prices for the same items directly from the respective establishments and calculates the total price, giving users the option to make an informed decision on whether to proceed with the delivery service or purchase directly from the establishment.
 
-## <ins>__Started__</ins>: 
-## <ins>__Completed On__</ins>: 
+#### <ins>__Started__</ins>: 
+#### <ins>__Completed On__</ins>: 
 
 ### <ins>Built With</ins>:
 
