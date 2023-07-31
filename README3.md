@@ -2,6 +2,7 @@
 
 Mobile App for Comparing Delivery Service Prices
 
+---------------------------
 
 delivery-or-nah aims to empower users to make informed decisions about their purchases and save money by comparing prices between delivery services and establishments. The app serves as a valuable tool for cost-conscious consumers looking to get the best value for their money.
 
@@ -11,7 +12,7 @@ delivery-or-nah aims to empower users to make informed decisions about their pur
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#aproject-description">Project Description:</a>
+      <a href="#project-description">Project Description:</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -50,7 +51,6 @@ The app allows users to export their cart from these delivery services before or
 
 It then fetches the prices for the same items directly from the respective establishments and calculates the total price, giving users the option to make an informed decision on whether to proceed with the delivery service or purchase directly from the establishment.
 
----------------------------
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
