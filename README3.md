@@ -15,9 +15,26 @@ Mobile App for Comparing Delivery Service Prices
     </li>
     <li>
       <a href="#best-coding-languages">Best Coding Languages:</a></li>
+    </li>
+    <li>
+      <a href="#key-features">Key Features:</a></li>
+    </li>
+    <li>
+        <a href="#basic-workflow">Basic Workflow:</a></li>
+    </li>
+     <li>
+        <a href="#basic-io-details">Basic I/O Details:</a></li>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
     <li>
       <ul>
-        <a href="#key-features">Key Features:</a></li>
+        <li><a href="#prerequisites">Prerequisites</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -28,7 +45,7 @@ Mobile App for Comparing Delivery Service Prices
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-
+   
 
 
 ## Description:
@@ -88,6 +105,11 @@ Mobile App for Comparing Delivery Service Prices
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
