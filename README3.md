@@ -104,7 +104,8 @@ This is an example of how you may give instructions on setting up your project l
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-[//]: # (The backtick can be used ) 
+
+[//]: # (Three backticks are used in Markdown to indicate a code block. A pair is used around the code, but a backtick is required to backtick the backtick.) 
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
