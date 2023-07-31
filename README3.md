@@ -2,8 +2,6 @@
 
 Mobile App for Comparing Delivery Service Prices
 
----------------------------
-
 delivery-or-nah aims to empower users to make informed decisions about their purchases and save money by comparing prices between delivery services and establishments. The app serves as a valuable tool for cost-conscious consumers looking to get the best value for their money.
 
 
@@ -50,6 +48,8 @@ delivery-or-nah is a mobile app integrated with iOS that empowers users to compa
 The app allows users to export their cart from these delivery services before order submission, saving the item names and the total cost, including taxes, delivery fees, and tip. 
 
 It then fetches the prices for the same items directly from the respective establishments and calculates the total price, giving users the option to make an informed decision on whether to proceed with the delivery service or purchase directly from the establishment.
+
+---------------------------
 
 ### Built With:
 
