@@ -2,8 +2,6 @@
 
 <ins>Mobile App for Comparing Delivery Service Prices</ins>
 
-delivery-or-nah aims to empower users to make informed decisions about their purchases and save money by comparing prices between delivery services and establishments. The app serves as a valuable tool for cost-conscious consumers looking to get the best value for their money.\
-
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -38,6 +36,8 @@ delivery-or-nah aims to empower users to make informed decisions about their pur
   </ol>
 </details>
 
+delivery-or-nah aims to empower users to make informed decisions about their purchases and save money by comparing prices between delivery services and establishments. The app serves as a valuable tool for cost-conscious consumers looking to get the best value for their money.
+\
 
 <!-- ABOUT THE PROJECT -->
 ## Project Description
