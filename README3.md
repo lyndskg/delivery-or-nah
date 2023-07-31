@@ -109,6 +109,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+---------------------------
+
 ## Basic I/O Details
 delivery-or-nah will be a mobile app available on iOS devices. Users can export their cart data from popular delivery services using the app's built-in functionality. The app will display the item names, prices, taxes, delivery fees, and tips for the delivery service. It will then fetch and display the prices from the respective establishments for comparison. Users can make a decision based on the presented information.
 
