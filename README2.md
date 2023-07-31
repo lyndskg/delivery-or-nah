@@ -1,6 +1,4 @@
 <a name="readme-top"></a>
-
-
 # delivery-or-nah [WIP]
 ##### <ins>__*a mobile app for comparing delivery service prices*__</ins>
 
