@@ -30,7 +30,8 @@
   </ol>
 </details>
 
-> delivery-or-nah aims to empower users to make informed decisions about their purchases and save money by comparing prices between delivery services and establishments. The app serves as a valuable tool for cost-conscious consumers looking to get the best value for their money.
+> delivery-or-nah aims to empower users to make informed decisions about their purchases and save money by comparing prices between delivery services and establishments.
+> The app serves as a valuable tool for cost-conscious consumers looking to get the best value for their money.
 
 
 ---------------------------
