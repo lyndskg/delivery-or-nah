@@ -10,7 +10,26 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-
+<li>
+    <li><a href="#best-coding-languages">Best Coding Languages</a></li>
+    <li><a href="#key-features">Key Features</a></li>
+    <li><a href="#basic-workflow">Basic Workflow</a></li>
+    <li><a href="#basic-io-details">Basic I/O Details</a></li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
     
 <!-- ABOUT THE PROJECT -->
 ## Project Description
@@ -66,26 +85,7 @@ Swift is the primary coding language for iOS app development, making it ideal fo
 delivery-or-nah will be a mobile app available on iOS devices. Users can export their cart data from popular delivery services using the app's built-in functionality. The app will display the item names, prices, taxes, delivery fees, and tips for the delivery service. It will then fetch and display the prices from the respective establishments for comparison. Users can make a decision based on the presented information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<li>
-    <li><a href="#best-coding-languages">Best Coding Languages</a></li>
-    <li><a href="#key-features">Key Features</a></li>
-    <li><a href="#basic-workflow">Basic Workflow</a></li>
-    <li><a href="#basic-io-details">Basic I/O Details</a></li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+
 
 > delivery-or-nah aims to empower users to make informed decisions about their purchases and save money by comparing prices between delivery services and establishments.
 >
