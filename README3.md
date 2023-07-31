@@ -44,7 +44,7 @@ The app allows users to export their cart from these delivery services before or
 It then fetches the prices for the same items directly from the respective establishments and calculates the total price, giving users the option to make an informed decision on whether to proceed with the delivery service or purchase directly from the establishment.
 
 
-### Built With:
+### <ins>Built With</ins>:
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
