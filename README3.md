@@ -1,5 +1,35 @@
 # delivery-or-nah
 
+Mobile App for Comparing Delivery Service Prices
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#best-coding-languages">Best Coding Languages:</a></li>
+    <ul>
+      <li>
+        <a href="#key-features">Key Features:</a></li>
+      </li>
+    </ul>
+    <ul>
+      <li>
+        <a href="#basic-workflow">Basic Workflow:</a></li>
+      </li>
+    </ul>
+    <li></li><a href="#key-features">Key Features:</a>
+    <li></li><a href="#basic-workflow">Basic Workflow:</a>
+    <li></li><a href="#basic-io-details">Basic I/O Details:</a>
+      <ul>
+    </li>
 
 
 ## Description:
@@ -43,35 +73,6 @@ delivery-or-nah aims to empower users to make informed decisions about their pur
 # delivery-or-nah
 
 Mobile App for Comparing Delivery Service Prices
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#best-coding-languages">Best Coding Languages:</a></li>
-    <ul>
-      <li>
-        <a href="#key-features">Key Features:</a></li>
-      </li>
-    </ul>
-    <ul>
-      <li>
-        <a href="#basic-workflow">Basic Workflow:</a></li>
-      </li>
-    </ul>
-    <li></li><a href="#key-features">Key Features:</a>
-    <li></li><a href="#basic-workflow">Basic Workflow:</a>
-    <li></li><a href="#basic-io-details">Basic I/O Details:</a>
-      <ul>
-    </li>
 
 
 <details>
