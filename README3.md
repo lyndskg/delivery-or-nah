@@ -7,7 +7,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#project-description">Project Description</a>
+      <a href="#project">Project Overview</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -40,7 +40,7 @@
 ---------------------------
 
 <!-- ABOUT THE PROJECT -->
-## Project Description
+## Project Overview
 
 <SPAN STYLE="font-family:'EB Garamond'">__*delivery-or-nah*__</span> is a mobile app integrated with iOS that empowers users to compare prices between popular delivery services such as Instacart, Shipt, Uber Eats, DoorDash, GrubHub, GoPuff, and more, with the actual establishment prices.
 
@@ -48,6 +48,8 @@ The app allows users to export their cart from these delivery services before or
 
 It then fetches the prices for the same items directly from the respective establishments and calculates the total price, giving users the option to make an informed decision on whether to proceed with the delivery service or purchase directly from the establishment.
 
+## <ins>__Started__</ins>: 
+## <ins>__Completed On__</ins>: 
 
 ### <ins>Built With</ins>:
 
