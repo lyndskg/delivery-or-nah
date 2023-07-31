@@ -1,56 +1,3 @@
-# delivery-or-nah
-
-Mobile App for Comparing Delivery Service Prices
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#best-coding-languages">Best Coding Languages:</a></li>
-    </li>
-    <li>
-      <a href="#key-features">Key Features:</a></li>
-    </li>
-    <li>
-        <a href="#basic-workflow">Basic Workflow:</a></li>
-    </li>
-     <li>
-        <a href="#basic-io-details">Basic I/O Details:</a></li>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-   
-
-
-
-
-
 delivery-or-nah aims to empower users to make informed decisions about their purchases and save money by comparing prices between delivery services and establishments. The app serves as a valuable tool for cost-conscious consumers looking to get the best value for their money.
 
 
@@ -155,6 +102,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 5. User-Friendly Interface: Design an intuitive and user-friendly interface for easy comparison and decision-making.
 6. Real-Time Data: Ensure that the app fetches real-time prices from both delivery services and establishments.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Basic Workflow:
 1. Cart Data Retrieval: Implement APIs to fetch cart data from popular delivery services (Instacart, Shipt, Uber Eats, etc.).
@@ -164,11 +112,12 @@ This section should list any major frameworks/libraries used to bootstrap your p
 5. User Interface: Design an intuitive and visually appealing interface to present the comparison results to users.
 6. Real-Time Data Updates: Ensure that the app updates prices in real-time to reflect any changes in the delivery service or establishment prices.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Basic I/O Details:
 delivery-or-nah will be a mobile app available on iOS devices. Users can export their cart data from popular delivery services using the app's built-in functionality. The app will display the item names, prices, taxes, delivery fees, and tips for the delivery service. It will then fetch and display the prices from the respective establishments for comparison. Users can make a decision based on the presented information.
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 delivery-or-nah aims to empower users to make informed decisions about their purchases and save money by comparing prices between delivery services and establishments. The app serves as a valuable tool for cost-conscious consumers looking to get the best value for their money.
 
