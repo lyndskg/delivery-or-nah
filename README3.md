@@ -29,7 +29,14 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-    
+
+> delivery-or-nah aims to empower users to make informed decisions about their purchases and save money by comparing prices between delivery services and establishments.
+>
+>  The app serves as a valuable tool for cost-conscious consumers looking to get the best value for their money.
+
+
+---------------------------
+
 <!-- ABOUT THE PROJECT -->
 ## Project Description
 delivery-or-nah is a mobile app integrated with iOS that empowers users to compare prices between popular delivery services such as Instacart, Shipt, Uber Eats, DoorDash, GrubHub, GoPuff, and more, with the actual establishment prices. 
@@ -86,12 +93,7 @@ delivery-or-nah will be a mobile app available on iOS devices. Users can export 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-> delivery-or-nah aims to empower users to make informed decisions about their purchases and save money by comparing prices between delivery services and establishments.
->
->  The app serves as a valuable tool for cost-conscious consumers looking to get the best value for their money.
-
-
----------------------------
+---------------------
 
 <!-- GETTING STARTED -->
 ## Getting Started
