@@ -77,6 +77,10 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 ---------------------------
 
+## Best Coding Languages
+Swift is the primary coding language for iOS app development, making it ideal for building delivery-or-nah.
+
+
 ### <ins>Built With</ins>:
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
@@ -90,13 +94,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 [//]: # (* [![JQuery][JQuery.com]][JQuery-url])
 
 * [![Next][Next.js]][Next-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
----------------------------
-
-## Best Coding Languages
-Swift is the primary coding language for iOS app development, making it ideal for building delivery-or-nah.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
