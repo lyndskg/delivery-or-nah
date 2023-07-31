@@ -57,7 +57,6 @@ It then fetches the prices for the same items directly from the respective estab
 >
 > ##### <ins>__Completed On__</ins>: Idk
 
-
 ## To-do List:
 - [x] Add Changelog
 - [x] Add back to top links
