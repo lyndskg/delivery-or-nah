@@ -11,7 +11,7 @@ delivery-or-nah aims to empower users to make informed decisions about their pur
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#aproject-description">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
