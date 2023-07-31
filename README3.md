@@ -12,15 +12,15 @@ delivery-or-nah aims to empower users to make informed decisions about their pur
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#project-description">Project Description:</a>
+      <a href="#project-description">Project Description</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Built With:</a></li>
       </ul>
     </li>
-    <li><a href="#best-coding-languages">Best Coding Languages:</a></li>
-    <li><a href="#key-features">Key Features:</a></li>
-    <li><a href="#basic-workflow">Basic Workflow:</a></li>
-    <li><a href="#basic-io-details">Basic I/O Details:</a></li>
+    <li><a href="#best-coding-languages">Best Coding Languages</a></li>
+    <li><a href="#key-features">Key Features</a></li>
+    <li><a href="#basic-workflow">Basic Workflow</a></li>
+    <li><a href="#basic-io-details">Basic I/O Details</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -44,14 +44,14 @@ delivery-or-nah aims to empower users to make informed decisions about their pur
 
 
 <!-- ABOUT THE PROJECT -->
-## Project Description:
+## Project Description
 delivery-or-nah is a mobile app integrated with iOS that empowers users to compare prices between popular delivery services such as Instacart, Shipt, Uber Eats, DoorDash, GrubHub, GoPuff, and more, with the actual establishment prices. 
 
 The app allows users to export their cart from these delivery services before order submission, saving the item names and the total cost, including taxes, delivery fees, and tip. 
 
 It then fetches the prices for the same items directly from the respective establishments and calculates the total price, giving users the option to make an informed decision on whether to proceed with the delivery service or purchase directly from the establishment.
 
-### Built With
+### Built With:
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
@@ -66,12 +66,12 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Best Coding Languages:
+## Best Coding Languages
 Swift is the primary coding language for iOS app development, making it ideal for building delivery-or-nah.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Key Features:
+## Key Features
 1. Cart Export: Enable users to export their cart data from popular delivery services to the app.
 2. Price Comparison: Fetch prices for the same items directly from the establishments to calculate the total price.
 3. Delivery Service Fees: Account for taxes, delivery fees, and tips in the total price for delivery services.
@@ -82,7 +82,7 @@ Swift is the primary coding language for iOS app development, making it ideal fo
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Basic Workflow:
+## Basic Workflow
 1. Cart Data Retrieval: Implement APIs to fetch cart data from popular delivery services (Instacart, Shipt, Uber Eats, etc.).
 2. Price Calculation: Use the fetched cart data to calculate the total cost, including taxes, delivery fees, and tips for the delivery services.
 3. Establishment Price Retrieval: Implement APIs to retrieve prices for the same items directly from the respective establishments.
@@ -92,7 +92,7 @@ Swift is the primary coding language for iOS app development, making it ideal fo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Basic I/O Details:
+## Basic I/O Details
 delivery-or-nah will be a mobile app available on iOS devices. Users can export their cart data from popular delivery services using the app's built-in functionality. The app will display the item names, prices, taxes, delivery fees, and tips for the delivery service. It will then fetch and display the prices from the respective establishments for comparison. Users can make a decision based on the presented information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
