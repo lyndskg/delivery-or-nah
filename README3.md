@@ -1,6 +1,7 @@
 # delivery-or-nah
 ##### <ins>__*a mobile app for comparing delivery service prices*__</ins>
 
+[//]: # (This may be the most platform independent comment)
 <details>
   <summary>Table of Contents</summary>
   <ol>
