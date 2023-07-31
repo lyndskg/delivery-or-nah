@@ -65,12 +65,12 @@ Swift is the primary coding language for iOS app development, making it ideal fo
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Key Features
-1. Cart Export: Enable users to export their cart data from popular delivery services to the app.
-2. Price Comparison: Fetch prices for the same items directly from the establishments to calculate the total price.
-3. Delivery Service Fees: Account for taxes, delivery fees, and tips in the total price for delivery services.
-4. Establishment Direct Prices: Retrieve prices for items from the respective establishments.
-5. User-Friendly Interface: Design an intuitive and user-friendly interface for easy comparison and decision-making.
-6. Real-Time Data: Ensure that the app fetches real-time prices from both delivery services and establishments.
+1. <ins>__Cart Export</ins>:</ins>__ Enable users to export their cart data from popular delivery services to the app.
+2. <ins>__Price Comparison</ins>:</ins>__ Fetch prices for the same items directly from the establishments to calculate the total price.
+3. <ins>__Delivery Service Fees</ins>:__ Account for taxes, delivery fees, and tips in the total price for delivery services.
+4. <ins>__Establishment Direct Prices</ins>:__ Retrieve prices for items from the respective establishments.
+5. <ins>__User-Friendly Interface</ins>:__ Design an intuitive and user-friendly interface for easy comparison and decision-making.
+6. <ins>__Real-Time Data</ins>:__ Ensure that the app fetches real-time prices from both delivery services and establishments.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
