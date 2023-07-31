@@ -50,6 +50,8 @@ It then fetches the prices for the same items directly from the respective estab
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+---------------------------
+
 <!-- ROADMAP -->
 ## Roadmap
 
@@ -70,6 +72,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+---------------------------
 
 ### <ins>Built With</ins>:
 
@@ -87,13 +90,14 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+---------------------------
 
 ## Best Coding Languages
 Swift is the primary coding language for iOS app development, making it ideal for building delivery-or-nah.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+---------------------------
 
 ## Basic Workflow
 1. Cart Data Retrieval: Implement APIs to fetch cart data from popular delivery services (Instacart, Shipt, Uber Eats, etc.).
@@ -110,6 +114,8 @@ delivery-or-nah will be a mobile app available on iOS devices. Users can export 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+---------------------------
+
 ## Key Features
 1. <ins>__Cart Export</ins>:</ins>__ Enable users to export their cart data from popular delivery services to the app.
 2. <ins>__Price Comparison</ins>:</ins>__ Fetch prices for the same items directly from the establishments to calculate the total price.
@@ -119,7 +125,6 @@ delivery-or-nah will be a mobile app available on iOS devices. Users can export 
 6. <ins>__Real-Time Data</ins>:__ Ensure that the app fetches real-time prices from both delivery services and establishments.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ---------------------
 
@@ -159,6 +164,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+---------------------------
 
 
 <!-- USAGE EXAMPLES -->
@@ -172,7 +178,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+---------------------------
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -190,7 +196,7 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+---------------------------
 
 <!-- LICENSE -->
 ## License
@@ -199,7 +205,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+---------------------------
 
 <!-- CONTACT -->
 ## Contact
@@ -210,7 +216,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+---------------------------
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
