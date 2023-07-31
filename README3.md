@@ -15,21 +15,20 @@ Mobile App for Comparing Delivery Service Prices
     </li>
     <li>
       <a href="#best-coding-languages">Best Coding Languages:</a></li>
-    <ul>
-      <li>
-        <a href="#key-features">Key Features:</a></li>
-      </li>
-    </ul>
-    <ul>
-      <li>
-        <a href="#basic-workflow">Basic Workflow:</a></li>
-      </li>
-    </ul>
-    <li></li><a href="#key-features">Key Features:</a>
-    <li></li><a href="#basic-workflow">Basic Workflow:</a>
-    <li></li><a href="#basic-io-details">Basic I/O Details:</a>
+    <li>
       <ul>
+        <a href="#key-features">Key Features:</a></li>
+      </ul>
     </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
 
 
 ## Description:
