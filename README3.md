@@ -4,7 +4,7 @@
 [//]: # (This may be the most platform independent comment)
 
 # Contents
- - [Specification](##specification) 
+ - [Specification](#specification) 
  - [Dependencies Title](#dependencies-title)
 
 blah
