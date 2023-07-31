@@ -8,7 +8,7 @@
     <li>
       <a href="#project-description">Project Description</a>
       <ul>
-        <li><a href="#built-with">Built With:</a></li>
+        <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
     <li><a href="#best-coding-languages">Best Coding Languages</a></li>
