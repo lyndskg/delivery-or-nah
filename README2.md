@@ -1,11 +1,13 @@
-# delivery-or-nah 
+# delivery-or-nah [WIP]
 ##### <ins>__*a mobile app for comparing delivery service prices*__</ins>
+
+[//]: # (This may be the most platform independent comment)
 
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#project-description">Project Description</a>
+      <a href="#project">Project Overview</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -38,44 +40,64 @@
 ---------------------------
 
 <!-- ABOUT THE PROJECT -->
-## Project Description
-delivery-or-nah is a mobile app integrated with iOS that empowers users to compare prices between popular delivery services such as Instacart, Shipt, Uber Eats, DoorDash, GrubHub, GoPuff, and more, with the actual establishment prices. 
+## Project Overview
+
+<SPAN STYLE="font-family:'EB Garamond'">__*delivery-or-nah*__</span> is a mobile app integrated with iOS that empowers users to compare prices between popular delivery services such as Instacart, Shipt, Uber Eats, DoorDash, GrubHub, GoPuff, and more, with the actual establishment prices.
 
 The app allows users to export their cart from these delivery services before order submission, saving the item names and the total cost, including taxes, delivery fees, and tip. 
 
 It then fetches the prices for the same items directly from the respective establishments and calculates the total price, giving users the option to make an informed decision on whether to proceed with the delivery service or purchase directly from the establishment.
 
 
-### <ins>Built With</ins>:
+<!-- ROADMAP -->
+## Roadmap
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-* 
+### Timeline: 
+
+> ##### <ins>__Started__</ins>: Not yet
+>
+> ##### <ins>__Completed On__</ins>: Idk
+
+
+### To-do List:
+- [x] Add Changelog
+- [x] Add back to top links
+- [ ] Add Additional Templates w/ Examples
+- [ ] Add "components" document to easily copy & paste sections of the readme
+- [ ] Multi-language Support
+    - [ ] Chinese
+    - [ ] Spanish
+
+&nbsp;
+
+See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---------------------------
 
 ## Best Coding Languages
 Swift is the primary coding language for iOS app development, making it ideal for building delivery-or-nah.
 
+
+### <ins>Built With</ins>:
+
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
+[//]: # (* [![React][React.js]][React-url])
+[//]: # (* [![Vue][Vue.js]][Vue-url])
+[//]: # (* [![Angular][Angular.io]][Angular-url])
+[//]: # (* [![Svelte][Svelte.dev]][Svelte-url])
+[//]: # (* [![Laravel][Laravel.com]][Laravel-url])
+[//]: # (* [![Bootstrap][Bootstrap.com]][Bootstrap-url])
+[//]: # (* [![JQuery][JQuery.com]][JQuery-url])
+
+* [![Next][Next.js]][Next-url]
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Key Features
-1. <ins>__Cart Export</ins>:</ins>__ Enable users to export their cart data from popular delivery services to the app.
-2. <ins>__Price Comparison</ins>:</ins>__ Fetch prices for the same items directly from the establishments to calculate the total price.
-3. <ins>__Delivery Service Fees</ins>:__ Account for taxes, delivery fees, and tips in the total price for delivery services.
-4. <ins>__Establishment Direct Prices</ins>:__ Retrieve prices for items from the respective establishments.
-5. <ins>__User-Friendly Interface</ins>:__ Design an intuitive and user-friendly interface for easy comparison and decision-making.
-6. <ins>__Real-Time Data</ins>:__ Ensure that the app fetches real-time prices from both delivery services and establishments.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+---------------------------
 
 ## Basic Workflow
 1. Cart Data Retrieval: Implement APIs to fetch cart data from popular delivery services (Instacart, Shipt, Uber Eats, etc.).
@@ -87,10 +109,26 @@ Swift is the primary coding language for iOS app development, making it ideal fo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+---------------------------
+
 ## Basic I/O Details
 delivery-or-nah will be a mobile app available on iOS devices. Users can export their cart data from popular delivery services using the app's built-in functionality. The app will display the item names, prices, taxes, delivery fees, and tips for the delivery service. It will then fetch and display the prices from the respective establishments for comparison. Users can make a decision based on the presented information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---------------------------
+
+## Key Features
+1. <ins>__Cart Export</ins>:</ins>__ Enable users to export their cart data from popular delivery services to the app.
+2. <ins>__Price Comparison</ins>:</ins>__ Fetch prices for the same items directly from the establishments to calculate the total price.
+3. <ins>__Delivery Service Fees</ins>:__ Account for taxes, delivery fees, and tips in the total price for delivery services.
+4. <ins>__Establishment Direct Prices</ins>:__ Retrieve prices for items from the respective establishments.
+5. <ins>__User-Friendly Interface</ins>:__ Design an intuitive and user-friendly interface for easy comparison and decision-making.
+6. <ins>__Real-Time Data</ins>:__ Ensure that the app fetches real-time prices from both delivery services and establishments.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---------------------
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -99,6 +137,8 @@ This is an example of how you may give instructions on setting up your project l
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+
+[//]: # (Three backticks are used in Markdown to indicate a code block. A pair is used around the code, but a backtick is required to backtick the backtick.) 
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
@@ -126,6 +166,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+---------------------------
 
 
 <!-- USAGE EXAMPLES -->
@@ -139,24 +180,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+---------------------------
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -174,7 +198,7 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+---------------------------
 
 <!-- LICENSE -->
 ## License
@@ -183,7 +207,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+---------------------------
 
 <!-- CONTACT -->
 ## Contact
@@ -194,7 +218,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+---------------------------
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
@@ -231,17 +255,3 @@ Use this space to list resources you find helpful and would like to give credit 
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
