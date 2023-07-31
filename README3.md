@@ -3,6 +3,19 @@
 
 [//]: # (This may be the most platform independent comment)
 
+# Contents
+ - [Specification](#specification) 
+ - [Dependencies Title](#dependencies-title)
+
+blah
+
+## Specification
+blah
+
+## Dependencies Title
+
+blah 
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
