@@ -1,4 +1,5 @@
-# delivery-or-nah ##### <ins>__*a mobile app for comparing delivery service prices*__</ins>
+# delivery-or-nah 
+##### <ins>__*a mobile app for comparing delivery service prices*__</ins>
 
 <details>
   <summary>Table of Contents</summary>
