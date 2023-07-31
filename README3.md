@@ -1,4 +1,4 @@
-<SPAN STYLE="font-family:'EB Garamond'"><SPAN STYLE="font-size:32.0pt"> delivery-or-nah</span> </span>
+<SPAN STYLE="font-size:32.0pt"><SPAN STYLE="font-family:'EB Garamond'"> delivery-or-nah</span> </span>
 ##### <ins>__*a mobile app for comparing delivery service prices*__</ins>
 
 <details>
