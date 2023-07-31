@@ -11,11 +11,15 @@ delivery-or-nah aims to empower users to make informed decisions about their pur
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#aproject-description">About The Project</a>
+      <a href="#aproject-description">Project Description:</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
+    <li><a href="#best-coding-languages">Best Coding Languages:</a></li>
+    <li><a href="#key-features">Key Features:</a></li>
+    <li><a href="#basic-workflow">Basic Workflow:</a></li>
+    <li><a href="#basic-io-details">Basic I/O Details:</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
