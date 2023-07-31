@@ -1,8 +1,6 @@
 # delivery-or-nah 
 ##### <ins>__*a mobile app for comparing delivery service prices*__</ins>
 
----------------------------
-
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -32,8 +30,8 @@
   </ol>
 </details>
 
-delivery-or-nah aims to empower users to make informed decisions about their purchases and save money by comparing prices between delivery services and establishments. The app serves as a valuable tool for cost-conscious consumers looking to get the best value for their money.
 
+---------------------------
 
 <!-- ABOUT THE PROJECT -->
 ## Project Description
@@ -128,6 +126,8 @@ _Below is an example of how you can instruct your audience on installing and set
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+delivery-or-nah aims to empower users to make informed decisions about their purchases and save money by comparing prices between delivery services and establishments. The app serves as a valuable tool for cost-conscious consumers looking to get the best value for their money.
+
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
